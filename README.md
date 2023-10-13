@@ -1,1 +1,1 @@
-I'm trying to make a neural network
+just trying to make a neural network
